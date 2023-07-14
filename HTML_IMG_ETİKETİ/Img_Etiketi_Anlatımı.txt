@@ -1,0 +1,23 @@
+***************
+img Etiketi
+***************
+
+<img> etiketi, HTML sayfalarında resimleri görüntülemek için kullanılan bir etikettir. Bu etiket, web sayfalarına resim eklemek için kullanılan en temel etiketlerden biridir.
+
+- <img> Etiketi:
+  - Açıklama: Bu etiket, HTML sayfalarında resimleri görüntülemek için kullanılır.
+  - Özellikler:
+    - src: Bu özellik, görüntülenecek resmin kaynak dosyasının URL'sini belirtir. Örneğin, src="resim.jpg" şeklinde kullanılabilir.
+
+    - alt: Bu özellik, resmin alternatif bir metin açıklamasını belirtir. Eğer resim yüklenemezse veya görüntülenemezse, tarayıcı bu metni gösterir. Örneğin, alt="Güzel Manzara Resmi" şeklinde kullanılabilir.
+
+    - width ve height: Bu özellikler, resmin genişlik ve yükseklik değerlerini piksel cinsinden belirtir. Bu değerler, resmin boyutunu ayarlamak için kullanılabilir. Örneğin, width="300" ve height="200" şeklinde kullanılabilir. Width(Genişlik) - Height(Yükseklik)
+
+Örnek Kullanım:
+<p>Bu bir resim örneğidir:</p>
+<img src="resim.jpg" alt="Güzel Manzara Resmi" width="300" height="200">
+
+Yukarıdaki örnekte, <img> etiketi kullanılarak "resim.jpg" adlı bir resim dosyası görüntülenmektedir. Resmin alternatif metin açıklaması "Güzel Manzara Resmi" olarak belirtilmiştir. Ayrıca, width ve height özellikleriyle resmin genişlik ve yükseklik değerleri belirtilmiştir.
+
+<img> etiketi, web sayfalarında görselleri eklemek için sıklıkla kullanılır. Bu etiket, bir ürünün fotoğrafını, bir etkinliğin afişini veya bir manzara resmini görüntülemek için kullanılabilir. Aynı zamanda, tarayıcıların erişilebilirlik için alternatif metin sağlamasına da olanak tanır.
+
