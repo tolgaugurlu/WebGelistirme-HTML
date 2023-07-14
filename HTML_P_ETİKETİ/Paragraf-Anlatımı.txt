@@ -1,0 +1,25 @@
+## HTML Nedir?
+HTML, Hypertext Markup Language'ın kısaltmasıdır ve web sayfalarının yapısını belirlemek için kullanılan bir işaret dilidir. 
+
+NOT: BİR PROGRAMLAMA DİLİ DEĞİLDİR, İŞARETLEME DİLİDİR!
+
+
+## Etiket nedir? 
+
+"Etiket" terimi, belirli bir işlevi olan veya bir elementin tanımlandığı bir işaret veya kod parçasını ifade eder. HTML'de etiketler, açılış ve kapanış etiketleri şeklinde iki parçadan oluşur ve içeriklerini bu etiketler arasında tanımlar.
+
+Açılış etiketi, < işaretiyle başlar, ardından etiketin adı gelir ve > işaretiyle tamamlanır. Örneğin, <p> etiketi bir paragrafı belirtir. Kapanış etiketi ise </ işaretiyle başlar, ardından etiketin adı gelir ve > işaretiyle tamamlanır. Örneğin, </p> etiketi bir paragrafın sonunu belirtir.
+
+Açılış etiketi ve kapanış etiketi arasında yer alan içerik, etiketin tanımladığı öğeyi oluşturur veya içerir. Örneğin, <p> etiketi içindeki metin bir paragrafı temsil eder.
+
+Etiketler, HTML belgesindeki içeriği yapısallaştırmak ve düzenlemek için kullanılır. Tarayıcılar, etiketleri okur ve içerikleri doğru şekilde görüntüler. Ayrıca, arama motorları ve diğer tarayıcılar da etiketlerin semantik anlamını anlar ve içeriği daha iyi anlamlandırır.
+
+## Paragraf Etiketi Nedir?
+
+p etiketi (paragraph etiketi) metin paragraflarını belirtmek için kullanılır. p etiketi içine yerleştirilen metin, bir paragraf olarak kabul edilir ve tarayıcılar tarafından otomatik olarak bir satır atlayarak görüntülenir.
+
+p etiketi, sayfa içeriğindeki paragrafları belirtmek için kullanılır ve HTML belgesinde semantik bir yapı oluşturur. Bu, tarayıcılara ve diğer arama motorlarına sayfadaki metni nasıl değerlendireceklerini anlatır.
+
+## Semantik Nedir?
+
+Semantik, HTML'de etiketlerin içeriklerin anlamını belirtmek için kullanılmasıdır. Yani, bir etiketin kullanımı, içeriğin ne olduğunu açıkça ifade eder. Örneğin, başlık için <h1> etiketi kullanılırken, paragraf için <p> etiketi kullanılır. Bu sayede tarayıcılar, arama motorları ve diğer yazılımlar, içeriği daha iyi anlar ve doğru şekilde işler. Semantik etiketlerin doğru kullanımı, web sayfalarının erişilebilirliğini ve uyumluluğunu artırır. Ayrıca, belge yapısını anlaşılır hale getirir ve gelecekteki değişikliklere uyum sağlar.
