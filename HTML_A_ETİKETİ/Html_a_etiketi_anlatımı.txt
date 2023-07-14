@@ -1,0 +1,27 @@
+***************
+<a> Elementi
+***************
+
+<a> elementi, HTML sayfalarında linkleri veya bağlantıları oluşturmak için kullanılır. Bu element, kullanıcıları diğer sayfalara yönlendirmek veya belirli bir konuma atlamak için kullanılabilir.
+
+- <a> Elementi:
+  - Açıklama: Bu element, HTML sayfalarında linkleri veya bağlantıları oluşturmak için kullanılır.
+
+  - Özellikler:
+
+    - href: Bu özellik, bağlantının hedef URL'sini belirtir. Örneğin, href="https://www.example.com" şeklinde kullanılabilir.
+
+    - target: Bu özellik, bağlantının nasıl açılacağını belirtir. Örneğin, target="_blank" ile bağlantının yeni bir sekmede açılmasını sağlayabilirsiniz.
+
+    - rel: Bu özellik, bağlantının ilişkisini belirtir. Örneğin, rel="nofollow" ile bağlantının takip edilmemesini sağlayabilirsiniz.
+
+    - title: Bu özellik, bağlantının üzerine gelindiğinde görüntülenecek olan açıklama metnini belirtir.
+
+Örnek Kullanım:
+<p>Bu bir link örneğidir:</p>
+<a href="https://www.tolgaugurlu.com" target="_blank" rel="nofollow" title="Örnek Bağlantı">Örnek Bağlantı</a>
+
+Örnekte, <a> elementi kullanılarak "https://www.tolgaugurlu.com" adresine yönlendiren bir bağlantı oluşturulmuştur. Bağlantı yeni bir sekmede açılmakta, takip edilmemekte ve üzerine gelindiğinde "Örnek Bağlantı" açıklama metni görüntülenmektedir.
+
+<a> elementi, web sayfalarında diğer sayfalara veya belirli konumlara bağlantılar oluşturmak için kullanılır. Bu element, menü bağlantıları, içerikler arası gezinti veya dış kaynaklara yönlendirmeler gibi birçok farklı senaryoda kullanılabilir.
+
