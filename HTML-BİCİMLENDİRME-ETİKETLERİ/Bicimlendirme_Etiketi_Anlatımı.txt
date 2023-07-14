@@ -1,0 +1,46 @@
+## Biçimlendirme Etiketleri
+
+1. `<b>` Etiketi:
+   - Açıklama: Metni kalın olarak biçimlendirir.
+   - Örnek: `<b>Metin kalın bir şekilde yazılır.</b>`
+   - Anlamı: Bu etiketi kullanarak metni kalın hale getirebilirsiniz. Örneğin, başlıkları veya önemli ifadeleri vurgulamak için kullanılır.
+
+2. `<i>` Etiketi:
+   - Açıklama: Metni italik olarak biçimlendirir.
+   - Örnek: `<i>Metin italik bir şekilde yazılır.</i>`
+   - Anlamı: Bu etiketi kullanarak metni eğik (italik) hale getirebilirsiniz. Örneğin, alıntılar veya yabancı dil kelimeleri vurgulamak için kullanılır.
+
+3. `<u>` Etiketi:
+   - Açıklama: Metni altı çizili olarak biçimlendirir.
+   - Örnek: `<u>Metin altı çizili bir şekilde yazılır.</u>`
+   - Anlamı: Bu etiketi kullanarak metni altı çizili hale getirebilirsiniz. Örneğin, web linklerini veya özel kelimeleri vurgulamak için kullanılır.
+
+4. `<s>` Etiketi:
+   - Açıklama: Metni üstü çizili olarak biçimlendirir.
+   - Örnek: `<s>Metin üstü çizili bir şekilde yazılır.</s>`
+   - Anlamı: Bu etiketi kullanarak metni üstü çizili hale getirebilirsiniz. Örneğin, geçerlilik süresi dolmuş bilgileri veya hatalı ifadeleri göstermek için kullanılır.
+
+5. `<sup>` Etiketi:
+   - Açıklama: Metni üst simge olarak biçimlendirir.
+   - Örnek: `H<sup>2</sup>O`
+   - Anlamı: Bu etiketi kullanarak metnin bir bölümünü üst simge olarak gösterebilirsiniz. Örneğin, kimya formüllerinde veya matematiksel ifadelerde kullanılır.
+
+6. `<sub>` Etiketi:
+   - Açıklama: Metni alt simge olarak biçimlendirir.
+   - Örnek: `x<sub>1</sub>`
+   - Anlamı: Bu etiketi kullanarak metnin bir bölümünü alt simge olarak gösterebilirsiniz. Örneğin, kimya formüllerinde veya matematiksel ifadelerde kullanılır.
+
+7. `<strong>` Etiketi:
+   - Açıklama: Metni önemli veya vurgulu olarak biçimlendirir.
+   - Örnek: `<strong>Metin önemli bir şekilde vurgulanır.</strong>`
+   - Anlamı: Bu etiketi kullanarak metni önemli veya vurgulu hale getirebilirsiniz. Örneğin, uyarı mesajlarında veya önemli ifadelerde kullanılır.
+
+8. `<em>` Etiketi:
+   - Açıklama: Metni vurgulu olarak biçimlendirir.
+   - Örnek: `<em>Metin vurgulu bir şekilde yazılır.</em>`
+   - Anlamı: Bu etiketi kullanarak metni vurgulu hale getirebilirsiniz. Örneğin, kitap veya film isimlerini vurgulamak için kullanılır.
+
+9. `<mark>` Etiketi:
+   - Açıklama: Metni arka planı renklendirilmiş olarak biçimlendirir.
+   - Örnek: `<mark>Metin arka planı renklendirilmiş bir şekilde yazılır.</mark>`
+   - Anlamı: Bu etiketi kullanarak metnin arka planını renklendirebilirsiniz. Örneğin, vurgulanması gereken önemli bilgileri veya metinleri göstermek için kullanılır.
