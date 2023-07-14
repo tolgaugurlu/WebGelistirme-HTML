@@ -1,0 +1,24 @@
+## H(eader) Etiketi Nedir?
+
+HTML'de H etiketleri, başlıkları tanımlamak için kullanılır. H etiketleri, <h1> ile <h6> arasında altı farklı seviyede gelir. <h1> en yüksek seviyeyi temsil ederken, <h6> en düşük seviyeyi temsil eder.
+
+### H etiketlerinin her biriyle ilgili detaylar:
+
+<h1>: En önemli başlığı belirtir. Genellikle sayfanın başlığı olarak kullanılır ve bir sayfada sadece bir kez kullanılmalıdır.
+
+<h2>: Biraz daha az önemli bir başlığı belirtir. Alt başlıkları tanımlamak veya önem sırasına göre bölümleri gruplamak için kullanılabilir.
+
+<h3>: <h2>'den daha az önemli bir başlığı belirtir. Alt başlıkları daha fazla düzeyde tanımlamak veya daha küçük bölümleri gruplamak için kullanılabilir.
+
+<h4>: Daha düşük önem seviyesinde bir başlığı belirtir.
+
+<h5>: <h4>'den daha az önemli bir başlığı belirtir.
+
+<h6>: En düşük önem seviyesindeki başlığı belirtir.
+
+Burada bahsettiğimiz "ÖNEM" kelimesi aslında bildiğimiz anlamının dışında. Bu önem sırası, tarayıcılar, arama motorları ve diğer yazılımlar tarafından başlıkların anlamlandırılmasında kullanıldığı için; bu sistemlerin algılama sıralamasındaki öneminden bahsediyoruz.
+
+
+H etiketleri, sayfa yapısını anlamlandırmak ve başlıkları hiyerarşik olarak düzenlemek için önemli. Tarayıcılar, bu etiketleri kullanarak başlıkları farklı şekilde görselleştirir ve metin akışını düzenler. Ayrıca, arama motorları da başlıkları sayfanın içeriğini anlamak için kullanır.
+
+Haber sayfalarında, Blog sayfalarında vb. birçok yerde sıklıkla tercih edilen ve kullanılan bir etikettir.
