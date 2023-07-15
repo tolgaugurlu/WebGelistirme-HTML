@@ -1,0 +1,36 @@
+*****************
+<ol> ve <ul> Etiketleri
+*****************
+
+<ol> ve <ul> etiketleri, HTML sayfalarında sıralı ve sırasız listeler oluşturmak için kullanılır. Bu etiketler, içerisindeki liste öğelerini tanımlamak için kullanılır.
+
+- <ol> Etiketi: (ordered list)
+  - Açıklama: Bu etiket, sıralı (numaralandırılmış) bir liste oluşturur.
+  - Özellikler:
+    - type: Bu özellik, sıralama şeklini belirtir. Örneğin, type="1" (varsayılan), type="A" (büyük harfle), type="a" (küçük harfle) şeklinde kullanılabilir.
+
+- <ul> Etiketi: (unordered list)
+  - Açıklama: Bu etiket, sırasız (noktalı veya tireli) bir liste oluşturur.
+  - Özellikler: Yok.
+
+Örnek Kullanım:
+<p>Bu bir sıralı liste örneğidir:</p>
+<ol>
+  <li>Elma</li>
+  <li>Armut</li>
+  <li>Portakal</li>
+</ol>
+
+<p>Bu bir sırasız liste örneğidir:</p>
+<ul>
+  <li>Kırmızı</li>
+  <li>Mavi</li>
+  <li>Sarı</li>
+</ul>
+
+Yukarıdaki örneklerde, <ol> etiketiyle sıralı bir liste ve <ul> etiketiyle sırasız bir liste oluşturulmuştur. Her bir liste öğesi <li> etiketi içerisinde tanımlanır.
+
+<ol> etiketi kullanıldığında numaralandırılmış bir sıralı liste oluşturulur. Numaralandırma şekli, type özelliğiyle belirtilebilir.
+
+<ul> etiketi kullanıldığında noktalı veya tireli bir sırasız liste oluşturulur. Sırasız listelerde her bir öğe madde işaretiyle gösterilir.
+
